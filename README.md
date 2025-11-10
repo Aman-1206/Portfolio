@@ -1,36 +1,121 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Personal Portfolio Website
 
-## Getting Started
+A modern, fully responsive, and animated portfolio website built to showcase my skills, projects, and experience as a Web Developer. This portfolio is designed with smooth animations, clean UI, and complete responsiveness across all devices.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 🌐 Live Demo
+
+👉 *Add your deployed URL here*
+
+---
+
+## ✨ Features
+
+* ✅ **Modern & Animated UI** using smooth transitions and professional styling
+* ✅ **Fully Responsive** — looks perfect on mobile, tablet, and desktop
+* ✅ **Home, About, Skills, Projects, and Contact Sections**
+* ✅ **Dynamic Tech Stack Cards**
+* ✅ **Professional About Section** with education, location, focus areas
+* ✅ **Download Resume/CV Button**
+* ✅ **Working Contact Form** (can be integrated with backend/email services)
+* ✅ **Social Media & Developer Profile Links**
+* ✅ **Clean, modular code structure** (Next.js / React based)
+
+---
+
+## 🖼️ Screenshots
+
+
+![Home](./public/screenshots/Home.png)
+![About](./public/screenshots/About.png)
+![Home-Phone](./public/screenshots/Home-phone.png)
+![Contacts-Phone](./public/screenshots/Contact-phone.png)
+
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend:**
+
+* HTML
+* CSS / TailwindCSS
+* JavaScript
+* React.js / Next.js
+* GSAP/Lenis/motion(for animations)
+
+### **Backend (Optional / Planned):**
+
+* Node.js
+* Express.js
+* MongoDB/Mongoosh(for storing contact form messages)
+
+### **Tools & Platforms:**
+
+* Git & GitHub
+* VS Code
+* Vercel (for deployment)
+
+---
+
+## 📁 Project Structure
+
+```
+project-folder/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── styles/
+│   ├── utils/
+│
+├── package.json
+├── README.md
+└── ...
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ⚙️ Installation & Setup
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Clone the repo
+git clone https://github.com/your-username/your-portfolio.git
+cd your-portfolio
 
-## Learn More
+# Install dependencies
+npm install
 
-To learn more about Next.js, take a look at the following resources:
+# Start development server
+npm run dev
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Build for production
+npm run build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📬 Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumarschool7@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Aman--1206-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aman-1206)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-a2ba54361)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman.cpp_/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<!-- Replace the LinkedIn and Instagram URLs above with your actual profile URLs before pushing -->
+
+## 🤝 Contributing
+
+This is a personal project, but contributions, suggestions, and improvements are always welcome.
+
+---
+
+## 📝 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+### ⭐ If you like this project, don't forget to star the repository!
