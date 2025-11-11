@@ -6,7 +6,7 @@ A modern, fully responsive, and animated portfolio website built to showcase my 
 
 ## 🌐 Live Demo
 
-👉 *Add your deployed URL here*
+👉 https://amandev-nine.vercel.app/
 
 ---
 
