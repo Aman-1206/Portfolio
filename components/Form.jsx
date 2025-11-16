@@ -89,7 +89,7 @@ const Form = () => {
               <Github className="text-cyan-400" /> GitHub – @Aman-1206
             </a>
             <a
-              href="www.linkedin.com/in/aman-kumar-a2ba54361"
+              href="https://www.linkedin.com/in/aman-kumar-a2ba54361"
               target="_blank"
               className="flex items-center gap-3 bg-[#00dfc41a]/50 p-3 rounded-md hover:bg-[#00dfc41a]/80 transition"
             >
